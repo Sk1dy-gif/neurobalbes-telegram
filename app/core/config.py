@@ -1,7 +1,7 @@
 # Bot settings
 API_TOKEN = '123:123-123'
 admin = 123
-channel = 'https://t.me/123'
+channel = 'https://t.me/+MipHwbxa18BlNGUy'
 channel_name = '@123'
 add_to_chat_link = 'http://t.me/123?startgroup=start'
 chat = 'https://t.me/123_chat'
